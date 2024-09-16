@@ -56,7 +56,7 @@ public class Main
         System.out.println("Is it raining? " + isRaining);
 
         double gasPrice = 2.95;
-        System.out.println("The gas price is " + gasPrice + "dollars.");
+        System.out.println("The gas price is " + gasPrice + " dollars.");
 
         int favNumber = 10;
         System.out.println("The favorite number is " + favNumber);
