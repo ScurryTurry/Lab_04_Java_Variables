@@ -47,7 +47,7 @@ public class Main
         System.out.println("The quotient using doubles of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleQuotient);
 
         double myLunchCost = 12.50;
-        System.out.println("The cost of lunch is " + myLunchCost + "dollars.");
+        System.out.println("The cost of lunch is " + myLunchCost + " dollars.");
 
         int kids = 2;
         System.out.println("The number of kids in the family is " + kids);
