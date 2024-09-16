@@ -72,5 +72,12 @@ public class Main
         String fullName = firstName + " " + lastName;
         System.out.println("The full name is " + fullName);
 
+        //Example
+        int myFavNumber = 13;
+        int doubleNum = 0;
+
+        doubleNum = myFavNumber * 2;
+
+        System.out.println("The number " + myFavNumber + " doubled is " + doubleNum);
     }
 }
